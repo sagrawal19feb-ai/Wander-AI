@@ -1,0 +1,4 @@
+✦ WANDER — models folder
+
+Drop your .gguf model files into THIS folder (subfolders are fine too), then start Wander.
+If there is more than one model, you'll get a selection screen in the terminal.
